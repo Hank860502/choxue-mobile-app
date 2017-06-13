@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pubnub-chat-native
 Real-time chat application using the PubNub network and React Native
 
@@ -63,3 +64,6 @@ For iOS, to run the application, use:
 $ npm run serve ios &
 $ react-native run-ios
 ```
+=======
+# choxue-mobile-app
+>>>>>>> d5172953c4ebc158265ff8894b621d8575f0a43d
